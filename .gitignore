@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+Arquivos_do_Curso/
+zip_files
+*.csv
+*.zip
